@@ -3,7 +3,7 @@
 As a full-stack developer, I possess a thorough grasp of the entire web development journey, spanning from crafting user interfaces to managing server-side logic. My expertise encompasses a diverse array of front-end and back-end technologies, enabling me to create, build, and sustain web applications throughout their entire lifecycle.<br><br>
 
 <a>
-    <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Your Image" align="right" >
+    <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Your Image" align="right" height="100" width="100" >
 
 </a>
 
